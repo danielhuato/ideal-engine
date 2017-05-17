@@ -1,2 +1,3 @@
 # ideal-engine
 getting started
+little scared, hope I get used to this quick...
